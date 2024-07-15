@@ -36,7 +36,7 @@ These ***options*** gave the result/anwer of the challenge/question in TryHackMe
 
 ![](https://github.com/jtoalu/Nmap-Wreath/blob/main/Screenshot%202024-07-13%20225320.png)
 
--on saved the result in a ***text*** file.
+-oN saved the result in a ***text*** file.
 
 ![](https://github.com/jtoalu/Nmap-Wreath/blob/main/Screenshot%202024-07-13%20225257.png)
 
